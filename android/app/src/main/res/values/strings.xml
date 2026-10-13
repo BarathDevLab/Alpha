@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeSense</string>
+    <string name="accessibility_description">Mind Guard reads text from approved apps to detect wellbeing signals. Passwords are never read. No text leaves your device.</string>
+    <string name="sound_guard_notification_title">Sound Guard active</string>
+    <string name="sound_guard_notification_text">Listening for safety signals. Speech is discarded.</string>
+    <string name="mind_guard_notification_title">Mind Guard active</string>
+    <string name="mind_guard_notification_text">Monitoring approved apps for wellbeing signals.</string>
+    <string name="channel_id">safesense_persistent</string>
+</resources>
